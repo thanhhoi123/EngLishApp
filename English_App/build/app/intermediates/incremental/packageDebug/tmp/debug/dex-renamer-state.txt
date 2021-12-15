@@ -1,0 +1,4 @@
+#Wed Dec 15 10:31:33 ICT 2021
+base.0=/home/techcare/Desktop/Flutter/english_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
